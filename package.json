@@ -1,0 +1,64 @@
+{
+  "name": "prime-solo-project",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:5000",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.11.16",
+    "@mui/x-date-pickers": "^6.1.0",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.6",
+    "node-media-server": "^2.5.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "pg": "^8.5.1",
+    "prop-types": "^15.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-image": "^4.1.0",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.1.2",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.1.3",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "sweetalert2": "^11.7.3",
+    "sweetalert2-react-content": "^5.0.7",
+    "video.js": "^8.0.4"
+  },
+  "scripts": {
+    "start": "node server/server.js",
+    "client": "react-scripts start",
+    "server": "nodemon --watch server server/server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "heroku": "^8.0.4",
+    "nodemon": "^2.0.4"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "heroku-run-build-script": true
+}
