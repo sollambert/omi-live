@@ -20,11 +20,11 @@ Omi Live Shopping is a one-of-a-kind, green-first streaming platform that connec
 ## Screenshots
 
 <div style={{display: 'flex'}}>
-  <img src="public/assets/images/screenshot1.png" width="150">
-  <img src="public/assets/images/screenshot2.png" width="150">
-  <img src="public/assets/images/screenshot3.png" width="150">
-  <img src="public/assets/images/screenshot4.png" width="150">
-  <img src="public/assets/images/screenshot5.png" width="150">
+  <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot1.png" width="150">
+  <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot2.png" width="150">
+  <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot3.png" width="150">
+  <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot4.png" width="150">
+  <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot5.png" width="150">
 </div>
 
 ## Installation
