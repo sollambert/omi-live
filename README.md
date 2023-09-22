@@ -19,7 +19,7 @@ Omi Live Shopping is a one-of-a-kind, green-first streaming platform that connec
 
 ## Screenshots
 
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap">
   <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot1.png" width="150">
   <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot2.png" width="150">
   <img src="https://raw.githubusercontent.com/sollambert/omi-live/main/public/assets/images/screenshot3.png" width="150">
